@@ -23,6 +23,24 @@ My background in business management, sales and operations helps me approach sof
 
 ## 💼 Featured Projects
 
+### 🤖 [AI Support Chatbot](https://github.com/bydartanyans-max/ai-support-chatbot)
+AI-powered customer support application featuring persistent conversations, authentication, REST APIs and multi-provider AI integration.
+
+### ⚙️ [Automation Order Manager](https://github.com/bydartanyans-max/automation-order-manager)
+Business order management system designed to automate order processing and workflow operations.
+
+### 📦 [Backend Inventory API](https://github.com/bydartanyans-max/backend-inventory-api)
+RESTful inventory management API supporting product management, stock movements, low-stock monitoring and inventory history.
+
+### 🚚 [Logistics Dashboard](https://github.com/bydartanyans-max/logistics-dashboard)
+Logistics operations dashboard for shipment tracking, driver assignment, delivery status management and operational KPIs.
+
+### 🌐 [Network Monitor Dashboard](https://github.com/bydartanyans-max/network-monitor-dashboard)
+Network monitoring dashboard for device status, latency, uptime metrics and system alerts.
+
+### 🎮 [Coinbar](https://github.com/bydartanyans-max/coinbar-portfolio)
+Flask-based virtual-balance gaming and sports entertainment portfolio project demonstrating a larger full-stack application architecture.
+
 ### 🤖 AI Support Chatbot
 AI-powered customer support application featuring persistent conversations, authentication, REST APIs and multi-provider AI integration.
 
