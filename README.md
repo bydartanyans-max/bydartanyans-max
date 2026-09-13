@@ -1,10 +1,19 @@
 # Hi, I'm Mehmet Ali Demir 👋
 
-### Python Developer | Flask & REST APIs | AI Automation | Backend Development
+### Python Developer | AI Automation | Flask & REST APIs | Backend Development
 
-I'm a developer based in Iași, Romania, focused on building practical software solutions, backend systems, AI-powered applications and business automation tools.
+I'm a developer based in Iași, Romania, focused on building practical backend systems, AI-powered applications, dashboards and business automation tools.
 
-My background in business management, sales and operations helps me approach software development from a practical perspective — building solutions around real business problems and workflows.
+Before moving deeper into software development, I spent years in business management, sales and operations. That background helps me build software around real workflows: customer support, order processing, inventory, logistics and operational monitoring.
+
+## 🚀 What I Build
+
+- AI assistants and customer-support chatbots
+- Python / Flask backend applications
+- REST APIs and SQLite-backed business systems
+- Workflow and order automation
+- Operational dashboards
+- API integrations and automation prototypes
 
 ## 🛠️ Tech Stack
 
@@ -19,64 +28,57 @@ My background in business management, sales and operations helps me approach sof
 ![AI](https://img.shields.io/badge/AI-Integration-purple)
 ![Automation](https://img.shields.io/badge/Business-Automation-success)
 
-**Core areas:** Python Backend Development • Flask • REST APIs • AI Integration • Chatbots • Business Automation • SQLite • Web Applications
+**Core areas:** Python · Flask · REST APIs · AI Integration · Chatbots · Business Automation · SQLite · Web Applications
 
 ## 💼 Featured Projects
 
 ### 🤖 [AI Support Chatbot](https://github.com/bydartanyans-max/ai-support-chatbot)
-AI-powered customer support application featuring persistent conversations, authentication, REST APIs and multi-provider AI integration.
+Customer-support application with persistent conversations, agent authentication, REST APIs, operational dashboard and optional OpenAI / Anthropic integration.
+
+**Highlights:** AI provider abstraction · conversation workflow · agent dashboard · SQLite persistence · REST endpoints
 
 ### ⚙️ [Automation Order Manager](https://github.com/bydartanyans-max/automation-order-manager)
-Business order management system designed to automate order processing and workflow operations.
+Rule-based order-processing application that automatically routes orders to different workflows according to business conditions.
+
+**Highlights:** workflow automation · REST API · validation · SQLite · operations dashboard
 
 ### 📦 [Backend Inventory API](https://github.com/bydartanyans-max/backend-inventory-api)
-RESTful inventory management API supporting product management, stock movements, low-stock monitoring and inventory history.
+RESTful inventory system with product CRUD, stock movements, validation, low-stock monitoring and inventory history.
+
+**Highlights:** backend business rules · API design · stock validation · persistent data
 
 ### 🚚 [Logistics Dashboard](https://github.com/bydartanyans-max/logistics-dashboard)
-Logistics operations dashboard for shipment tracking, driver assignment, delivery status management and operational KPIs.
+Operations dashboard for shipment tracking, driver assignment, delivery statuses and logistics KPIs.
+
+**Highlights:** CRUD workflows · REST API · operational KPIs · responsive dashboard
 
 ### 🌐 [Network Monitor Dashboard](https://github.com/bydartanyans-max/network-monitor-dashboard)
-Network monitoring dashboard for device status, latency, uptime metrics and system alerts.
+Monitoring dashboard that visualizes simulated device status, latency, uptime metrics and operational alerts.
 
-### 🎮 [Coinbar](https://github.com/bydartanyans-max/coinbar-portfolio)
-Flask-based virtual-balance gaming and sports entertainment portfolio project demonstrating a larger full-stack application architecture.
+**Highlights:** asynchronous refresh · monitoring concepts · REST endpoints · dashboard UI
 
-### 🤖 AI Support Chatbot
-AI-powered customer support application featuring persistent conversations, authentication, REST APIs and multi-provider AI integration.
+### 🎮 [Coinbar Portfolio](https://github.com/bydartanyans-max/coinbar-portfolio)
+Larger Flask-based portfolio application demonstrating full-stack structure and multi-feature application architecture.
 
-### 🚚 Logistics Dashboard
-Logistics operations dashboard for shipment tracking, driver assignment, delivery status management and operational KPIs.
+## 🎯 Roles I'm Interested In
 
-### ⚙️ Automation Order Manager
-Business order management system designed to automate order processing and workflow operations.
+I'm open to remote or hybrid opportunities involving:
 
-### 📦 Backend Inventory API
-RESTful inventory management API supporting product management, stock movements, low-stock monitoring and inventory history.
-
-### 🌐 Network Monitor Dashboard
-Network monitoring dashboard for device status, latency, uptime metrics and system alerts.
-
-### 🎮 Coinbar
-Flask-based virtual-balance gaming and sports entertainment portfolio project demonstrating a larger full-stack application architecture.
-
-## 🎯 Current Focus
-
-I'm currently expanding my skills in:
-
-- AI agents and automation
-- Python backend development
-- API integrations
-- Intelligent business workflows
-- Scalable web applications
+- Junior / Mid Python Developer
+- Backend Developer
+- AI Automation Specialist
+- Chatbot / AI Integration Developer
+- API Integration & Automation
+- Technical Operations / Automation
 
 ## 🌍 Languages
 
 - 🇹🇷 Turkish — Native
 - 🇷🇴 Romanian — Advanced
-- 🇬🇧 English
+- 🇬🇧 English — Working proficiency
 
 ## 📫 Contact
 
-I'm open to opportunities in Python development, backend development, AI automation and chatbot development.
-
 📧 bydartanyans@gmail.com
+
+If you're reviewing my profile for a role, I recommend starting with the **AI Support Chatbot**, **Automation Order Manager** and **Backend Inventory API** repositories.
