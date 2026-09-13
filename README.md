@@ -6,18 +6,20 @@ I'm a developer based in Iași, Romania, focused on building practical software 
 
 My background in business management, sales and operations helps me approach software development from a practical perspective — building solutions around real business problems and workflows.
 
-## 🚀 What I Work With
+## 🛠️ Tech Stack
 
-- Python
-- Flask
-- REST APIs
-- SQLite
-- HTML & CSS
-- Git & GitHub
-- AI API Integration
-- Chatbots
-- Business Automation
-- Backend Development
+![Python](https://img.shields.io/badge/Python-Developer-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
+![REST API](https://img.shields.io/badge/REST-API-green)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-Web-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Frontend-blue?logo=css3&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Integration-purple)
+![Automation](https://img.shields.io/badge/Business-Automation-success)
+
+**Core areas:** Python Backend Development • Flask • REST APIs • AI Integration • Chatbots • Business Automation • SQLite • Web Applications
 
 ## 💼 Featured Projects
 
